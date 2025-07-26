@@ -126,7 +126,7 @@ Then replace `github.com` with `colab.research.google.com/github/` like this:
 ## Team Members
 
 - [Ramya M ](https://github.com/RAMYA-M-08)
-- [Elakiya R](https://github.com/RAMYA-M-08)
+- [Elakiya R](https://github.com/Elakiya-R31)
 
 ---
 
