@@ -4,7 +4,7 @@
 
 This project presents a **performance-focused comparative analysis** of five widely-used image processing algorithms implemented on:
 
-- **Serial CPU** (NumPy/SciPy)
+- **Serial CPU** (NumPy/SciPy) 
 - **Parallel CPU** (PyTorch)
 - **GPU using CUDA** (via CuPy)
 
